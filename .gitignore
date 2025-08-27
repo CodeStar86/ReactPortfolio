@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+*.log
+
+# Production build
+dist/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Vite/Cache
+.vite/
+.cache/
+vite.config.ts.timestamp-*
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+coverage/
+
+# Misc
+*.local

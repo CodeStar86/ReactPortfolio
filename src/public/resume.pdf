@@ -1,0 +1,108 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1000 >>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Jordan Smith) Tj
+0 -30 Td
+/F1 14 Tf
+(Senior UI/UX Designer & Frontend Developer) Tj
+0 -30 Td
+(Email: jordan@designer.com | Phone: (555) 123-4567) Tj
+0 -30 Td
+(Portfolio: jordansmith.design | LinkedIn: /in/jordansmith) Tj
+
+0 -40 Td
+/F1 16 Tf
+(SUMMARY) Tj
+0 -20 Td
+/F1 12 Tf
+(Creative UI/UX designer with 3+ years of experience creating user-centered) Tj
+0 -15 Td
+(digital experiences. Expertise in design systems, frontend development,) Tj
+0 -15 Td
+(and cross-functional collaboration. Passionate about accessibility and) Tj
+0 -15 Td
+(performance optimization.) Tj
+
+0 -30 Td
+/F1 16 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F1 14 Tf
+(Senior UI/UX Designer - TechFlow Solutions) Tj
+0 -15 Td
+/F1 10 Tf
+(Jan 2023 - Present | San Francisco, CA) Tj
+0 -15 Td
+/F1 12 Tf
+(• Designed and implemented design system used across 5+ products) Tj
+0 -15 Td
+(• Improved user onboarding conversion by 45%) Tj
+0 -15 Td
+(• Led redesign resulting in 30% increase in user engagement) Tj
+
+0 -25 Td
+/F1 14 Tf
+(UI/UX Designer & Frontend Developer - StartupHub Inc.) Tj
+0 -15 Td
+/F1 10 Tf
+(Jun 2021 - Dec 2022 | San Francisco, CA) Tj
+0 -15 Td
+/F1 12 Tf
+(• Designed and built responsive web application from scratch) Tj
+0 -15 Td
+(• Created mobile-first design system and component library) Tj
+0 -15 Td
+(• Reduced development time by 40% through reusable components) Tj
+
+0 -30 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 14 Tf
+(Bachelor of Fine Arts in Digital Design) Tj
+0 -15 Td
+/F1 10 Tf
+(California College of the Arts | 2016 - 2020 | GPA: 3.8) Tj
+
+0 -25 Td
+/F1 16 Tf
+(SKILLS) Tj
+0 -20 Td
+/F1 12 Tf
+(Design: Figma, Adobe Creative Suite, Sketch, Prototyping, User Research) Tj
+0 -15 Td
+(Development: React, TypeScript, HTML/CSS, Tailwind CSS, Next.js) Tj
+0 -15 Td
+(Tools: Git, Storybook, Linear, Notion, Miro) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000110 00000 n 
+0000000251 00000 n 
+0000000318 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1370
+%%EOF
